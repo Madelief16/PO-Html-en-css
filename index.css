@@ -85,7 +85,7 @@ h2 {
 
     .page-nav ul li {
       transition: all 300ms ease;
-      left: 0px;
+      left: -200px;
       position: relative;
       line-height: 200%;
     }
