@@ -44,12 +44,12 @@ a {
     transition: bottom 300ms ease;
     position:relative;
     bottom: 15px;
-       top:-10px;
 	top:10px;  
 }
 
     .main-nav a:hover {
       bottom: -20px;
+	    top:0px;
     }
 
 .page-content {
