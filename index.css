@@ -100,4 +100,8 @@ h2 {
       .page-nav ul li a:visited {
         color: #6f717d;
       }
-
+img{
+  float:right;
+  margin-right:500px;
+  border-left: 20px solid white;
+}
