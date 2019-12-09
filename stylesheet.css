@@ -4,9 +4,7 @@ html, body {
   margin: 0;
 	font-family: sans-serif; 
 }
-p{
-  max-width:75ch;
-}
+
 a {
   color:#6f717d;
   text-decoration: none;
@@ -54,6 +52,7 @@ a {
 
 .page-content {
    margin-left: 200px;
+	max-width: 75ch;
 }
 
 
@@ -66,7 +65,8 @@ h1 {
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
-	border-bottom: 2px solid;}
+border-bottom: 2px solid grey;
+}
 
 h2 {
   position: sticky;
@@ -102,6 +102,5 @@ h2 {
       }
 img{
   float:right;
-  margin-right:500px;
-  border-left: 20px solid white;
+  margin-left:20px;
 }
